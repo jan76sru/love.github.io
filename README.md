@@ -1,4 +1,4 @@
-# Data Analysis Platform of India (DAPI)
+# Data Analysis Platform of India (DAP)
 
 ## 🚀 Overview
 The **Data Analysis Platform of India (DAPI)** is a tool designed for:
